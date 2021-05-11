@@ -9,6 +9,10 @@
 
 Assembly Language Projects
 
+## Projects
+
+* [HideDesktop](https://github.com/Zalexanninev15/ALP/tree/main/Projects/HideDesktop) - hide/show Desktop content
+
 ## Build
 
 Compile using ASM Visual or FASM
