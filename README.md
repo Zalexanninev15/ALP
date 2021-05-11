@@ -11,7 +11,7 @@ Assembly Language Projects
 
 ## Projects
 
-* [HideDesktop](https://github.com/Zalexanninev15/ALP/tree/main/Projects/HideDesktop) - hide/show Desktop content
+* [HideDesktop](https://github.com/Zalexanninev15/ALP/tree/main/Projects/HideDesktop) - hide/show Desktop content ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/HideDesktop/HideDesktop/bin/debug/HideDesktop.exe))
 
 ## Build
 
