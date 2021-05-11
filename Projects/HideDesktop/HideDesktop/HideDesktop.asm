@@ -1,4 +1,4 @@
-; License link: https://github.com/Zalexanninev15/ALP/blob/main/LICENSE
+; License: https://github.com/Zalexanninev15/ALP/blob/main/LICENSE
 
 format PE GUI 4.0
 entry start
