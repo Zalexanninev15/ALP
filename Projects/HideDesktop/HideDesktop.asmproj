@@ -1,0 +1,19 @@
+[Info]
+Version=ASM Visual Project File, Format Version 1.0
+[Project]
+nameProject=HideDesktop
+pathSourceDir=HideDesktop
+nameStartUp=HideDesktop.asm
+nameCompiler=fasm
+bit=32
+nameLinker=fasm
+nameDebugger=
+target=exe
+lastRunModeState=1
+lastRunButtonState=0
+warningsAsErrors=False
+communicateCLD=directly
+communicateRunRelease=cmd
+compilerParameters=
+linkerParameters=
+sourcesFiles={HideDesktop.asm}
