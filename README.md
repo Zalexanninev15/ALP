@@ -12,7 +12,7 @@ Assembly Language Projects
 ## Projects
 
 * [HideDesktop](https://github.com/Zalexanninev15/ALP/tree/main/Projects/HideDesktop) - hide/show Desktop content ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/HideDesktop/HideDesktop/bin/debug/HideDesktop.exe))
-* [CdRomStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/CdRomStatus) - determining the status of a CD-ROM [Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/CdRomStatus/CdRomStatus/bin/debug/CdRomStatus.exe))
+* [CdRomStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/CdRomStatus) - determining the status of a CD-ROM ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/CdRomStatus/CdRomStatus/bin/debug/CdRomStatus.exe))
 
 ## System requirements
 * **OS:** Windows 7/8/8.1/10
