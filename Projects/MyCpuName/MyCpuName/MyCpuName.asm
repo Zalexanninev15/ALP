@@ -141,7 +141,7 @@ section '.rsrc' resource data readable
   directory RT_DIALOG,dialogs
   resource dialogs,\
            1,LANG_ENGLISH+SUBLANG_DEFAULT,demonstration
-  dialog demonstration,'MyCpuName',0,0,190,30,WS_CAPTION+WS_SYSMENU+DS_CENTER+DS_SYSMODAL,0,0,'Arial',12
-    dialogitem 'BUTTON','',-1, 2, -1, 185, 35,BS_GROUPBOX
-    dialogitem 'EDIT','',ID_CPU,6,10,177,20,WS_VISIBLE+ES_CENTER+ES_MULTILINE+ES_READONLY+WS_BORDER
+  dialog demonstration,'MyCpuName',0,0,180,30,WS_CAPTION+WS_SYSMENU+DS_CENTER+DS_SYSMODAL,0,0,'Arial',12
+    dialogitem 'BUTTON','',0, 0, -1, 180, 35,BS_GROUPBOX
+    dialogitem 'EDIT','',ID_CPU,0,0,180,50,WS_VISIBLE+ES_CENTER+ES_MULTILINE+ES_READONLY+WS_BORDER
   enddialog
