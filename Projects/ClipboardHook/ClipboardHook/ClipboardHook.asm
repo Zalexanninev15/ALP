@@ -75,6 +75,6 @@ section '.rsrc' resource data readable
   directory RT_DIALOG,dialogs
   resource dialogs,\
            37,LANG_ENGLISH+SUBLANG_DEFAULT,demonstration
-  dialog demonstration,"ClipboardHook",0,0,180,140,WS_CAPTION+DS_CENTER+WS_POPUP+WS_SYSMENU+DS_MODALFRAME+DS_SYSMODAL
+  dialog demonstration,"ClipboardHook",0,0,180,140,WS_CAPTION+DS_CENTER+WS_POPUP+WS_SYSMENU+DS_MODALFRAME+DS_SYSMODAL,0,0,'Arial',10
     dialogitem 'EDIT','',ID_TXT,5,5,170,130,WS_VISIBLE+WS_BORDER+ES_READONLY+ES_MULTILINE
   enddialog
