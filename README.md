@@ -17,6 +17,7 @@ Assembly Language Projects
 * [ClipboardHook](https://github.com/Zalexanninev15/ALP/tree/main/Projects/ClipboardHook) - get text in clipboard ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/ClipboardHook/ClipboardHook/bin/debug/ClipboardHook.exe))
 * [GetWindowFont](https://github.com/Zalexanninev15/ALP/tree/main/Projects/GetWindowFont) - what font is used in the application window and in its elements ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/GetWindowFont/GetWindowFont/bin/debug/GetWindowFont.exe))
 * [SetKeyboardState](https://github.com/Zalexanninev15/ALP/tree/main/Projects/SetKeyboardState) - controlling NumLock, CapsLock and ScrollLock keys ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/SetKeyboardState/SetKeyboardState/bin/debug/SetKeyboardState.exe))
+* [ScreenMagnifier](https://github.com/Zalexanninev15/ALP/tree/main/Projects/ScreenMagnifier) - screen magnifier ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/ScreenMagnifier/ScreenMagnifier/bin/debug/ScreenMagnifier.exe))
 
 ## System requirements
 * **OS:** Windows 7/8/8.1/10
