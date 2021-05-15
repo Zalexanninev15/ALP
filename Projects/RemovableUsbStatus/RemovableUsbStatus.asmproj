@@ -1,0 +1,19 @@
+[Info]
+Version=ASM Visual Project File, Format Version 1.0
+[Project]
+nameProject=RemovableUsbStatus
+pathSourceDir=RemovableUsbStatus
+nameStartUp=RemovableUsbStatus.asm
+nameCompiler=fasm
+bit=32
+nameLinker=fasm
+nameDebugger=
+target=exe
+lastRunModeState=0
+lastRunButtonState=0
+warningsAsErrors=False
+communicateCLD=
+communicateRunRelease=
+compilerParameters=
+linkerParameters=
+sourcesFiles={RemovableUsbStatus.asm}

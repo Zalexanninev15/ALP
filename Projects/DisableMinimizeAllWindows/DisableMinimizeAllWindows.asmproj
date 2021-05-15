@@ -1,0 +1,19 @@
+[Info]
+Version=ASM Visual Project File, Format Version 1.0
+[Project]
+nameProject=DisableMinimizeAllWindows
+pathSourceDir=DisableMinimizeAllWindows
+nameStartUp=DisableMinimizeAllWindows.asm
+nameCompiler=fasm
+bit=32
+nameLinker=fasm
+nameDebugger=
+target=exe
+lastRunModeState=0
+lastRunButtonState=0
+warningsAsErrors=False
+communicateCLD=
+communicateRunRelease=
+compilerParameters=
+linkerParameters=
+sourcesFiles={DisableMinimizeAllWindows.asm}

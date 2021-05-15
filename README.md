@@ -18,6 +18,8 @@ Assembly Language Projects
 * [GetWindowFont](https://github.com/Zalexanninev15/ALP/tree/main/Projects/GetWindowFont) - what font is used in the application window and in its elements ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/GetWindowFont/GetWindowFont/bin/debug/GetWindowFont.exe))
 * [SetKeyboardState](https://github.com/Zalexanninev15/ALP/tree/main/Projects/SetKeyboardState) - controlling NumLock, CapsLock and ScrollLock keys ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/SetKeyboardState/SetKeyboardState/bin/debug/SetKeyboardState.exe))
 * [ScreenMagnifier](https://github.com/Zalexanninev15/ALP/tree/main/Projects/ScreenMagnifier) - screen magnifier ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/ScreenMagnifier/ScreenMagnifier/bin/debug/ScreenMagnifier.exe))
+* [DisableMinimizeAllWindows](https://github.com/Zalexanninev15/ALP/tree/main/Projects/DisableMinimizeAllWindows) - hide the "Minimize all Windows" button ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/DisableMinimizeAllWindows/DisableMinimizeAllWindows/bin/debug/DisableMinimizeAllWindows.exe))
+* [RemovableUsbStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/RemovableUsbStatus) - status of removable USB drives ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/RemovableUsbStatus/RemovableUsbStatus/bin/debug/RemovableUsbStatus.exe))
 
 ## System requirements
 * **OS:** Windows 7/8/8.1/10
