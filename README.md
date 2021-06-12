@@ -26,4 +26,4 @@ Assembly Language Projects
 
 ## Build
 
-Compile using [ASM Visual](https://gri-software.com/en/asmvisual) or [FASM](https://flatassembler.net)
+Compile using [FASM](https://flatassembler.net) or [ASM Visual](https://gri-software.com/en/asmvisual)
