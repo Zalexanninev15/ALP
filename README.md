@@ -7,18 +7,18 @@
 
 ## Description
 
-Assembly Language Projects
+Assembly Language Projects for Windows
 
 ## Projects
 
 * [HideDesktop](https://github.com/Zalexanninev15/ALP/tree/main/Projects/HideDesktop) - hide/show desktop content ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/HideDesktop/HideDesktop/bin/debug/HideDesktop.exe))
-* [CdRomStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/CdRomStatus) - determining the status of CD-ROM ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/CdRomStatus/CdRomStatus/bin/debug/CdRomStatus.exe))
-* [MyCpuName](https://github.com/Zalexanninev15/ALP/tree/main/Projects/MyCpuName) - determining the name of CPU and its ID (manufacturer) ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/MyCpuName/MyCpuName/bin/debug/MyCpuName.exe))
+* [CdRomStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/CdRomStatus) - status of CD-ROM ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/CdRomStatus/CdRomStatus/bin/debug/CdRomStatus.exe))
+* [MyCpuName](https://github.com/Zalexanninev15/ALP/tree/main/Projects/MyCpuName) - name of CPU and its ID (manufacturer) ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/MyCpuName/MyCpuName/bin/debug/MyCpuName.exe))
 * [ClipboardHook](https://github.com/Zalexanninev15/ALP/tree/main/Projects/ClipboardHook) - get text in clipboard ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/ClipboardHook/ClipboardHook/bin/debug/ClipboardHook.exe))
 * [GetWindowFont](https://github.com/Zalexanninev15/ALP/tree/main/Projects/GetWindowFont) - what font is used in the application window and in its elements ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/GetWindowFont/GetWindowFont/bin/debug/GetWindowFont.exe))
 * [SetKeyboardState](https://github.com/Zalexanninev15/ALP/tree/main/Projects/SetKeyboardState) - controlling NumLock, CapsLock and ScrollLock keys ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/SetKeyboardState/SetKeyboardState/bin/debug/SetKeyboardState.exe))
 * [ScreenMagnifier](https://github.com/Zalexanninev15/ALP/tree/main/Projects/ScreenMagnifier) - screen magnifier ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/ScreenMagnifier/ScreenMagnifier/bin/debug/ScreenMagnifier.exe))
-* [DisableMinimizeAllWindows](https://github.com/Zalexanninev15/ALP/tree/main/Projects/DisableMinimizeAllWindows) - hide the "Minimize all Windows" button ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/DisableMinimizeAllWindows/DisableMinimizeAllWindows/bin/debug/DisableMinimizeAllWindows.exe))
+* [DisableMinimizeAllWindows](https://github.com/Zalexanninev15/ALP/tree/main/Projects/DisableMinimizeAllWindows) - hide the "Minimize all windows" button ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/DisableMinimizeAllWindows/DisableMinimizeAllWindows/bin/debug/DisableMinimizeAllWindows.exe))
 * [RemovableUsbStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/RemovableUsbStatus) - status of removable USB drives ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/RemovableUsbStatus/RemovableUsbStatus/bin/debug/RemovableUsbStatus.exe))
 
 ## System requirements
