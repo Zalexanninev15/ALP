@@ -3,9 +3,7 @@
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/ALP)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/ALP.svg)](https://github.com/Zalexanninev15/ALP/commits/main)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![](https://img.shields.io/badge/donate_and_read_news-Boosty-F0672B.svg)](https://boosty.to/maxik-zalexanninev15)
-[![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
-[![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
+[![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
 ## Description
 
