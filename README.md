@@ -22,7 +22,7 @@ Assembly Language Projects for Windows
 * [RemovableUsbStatus](https://github.com/Zalexanninev15/ALP/tree/main/Projects/RemovableUsbStatus) - status of removable USB drives ([Build](https://github.com/Zalexanninev15/ALP/blob/main/Projects/RemovableUsbStatus/RemovableUsbStatus/bin/debug/RemovableUsbStatus.exe))
 
 ## System requirements
-* **OS:** Windows 7/8/8.1/10
+* **OS:** Windows 7/8/8.1/10 (projects can also work in Windows 11, but 100% uptime is not guaranteed)
 
 ## Build
 
