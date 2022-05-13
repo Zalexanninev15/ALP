@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/written_on-FASM-a8bce0.svg?logo=fasm)](https://flatassembler.net/index.php)
 [![](https://img.shields.io/badge/written_on-Assembly_Launguage-0076c6.svg?logo=assemblylaunguage)](https://github.com/Zalexanninev15/ALP)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/ALP.svg)](https://github.com/Zalexanninev15/ALP/commits/main)
+[![](https://img.shields.io/github/stars/Zalexanninev15/ALP.svg)](https://github.com/Zalexanninev15/ALP/stargazers)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
